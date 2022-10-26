@@ -1,1 +1,1 @@
-# ExcelToiCal
+A Java application to transform Excel to iCalendar format.
